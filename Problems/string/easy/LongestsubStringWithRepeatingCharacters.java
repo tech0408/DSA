@@ -1,4 +1,4 @@
-package dsa.Problems.Easy;
+package dsa.Problems.string.easy;
 
 
 /*
@@ -16,11 +16,6 @@ package dsa.Problems.Easy;
                     Output: 3
                      Explanation: The answer is "wke", with the length of 3.
  */
-
-import java.util.Arrays;
-import java.util.Comparator;
-import java.util.HashMap;
-import java.util.Map;
 
 public class LongestsubStringWithRepeatingCharacters {
 
